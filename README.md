@@ -13,7 +13,7 @@
   <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width="300" heigth="300" />
 </div>
 
-- 🤔 Estou procurando ajuda com Python. 
+- 🤔 Estou procurando ajuda com C. 
 
 - 🌱 Atualmente estou aprendendo:
 
