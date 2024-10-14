@@ -15,10 +15,7 @@
 
 - 🤔 Estou procurando ajuda com C. 
 
-- 🌱 Atualmente estou aprendendo:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" heigth="40" />
-
+- 🌱 Atualmente estou aprendendo: ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ## Como entrar em contato comigo:
