@@ -2,13 +2,12 @@
 # Oi, eu sou a Carol! 
 ## Eai meu povo 👋
 
-💼 Sou farmacêutica com 2 anos de experiência na área e atualmente estou em transição de carreira para área de T.I
+🎓 Cursando análise e desenvolvimento de sistemas
 
 
 
-- 🔭 Estou trabalhando em projetos pessoais para melhorar minhas habilidades de lógica de programação
+- 🔭 Estudando análise de dados e cloud AWS
 
-- 🎓 Estudando análise e desenvolvimento de sistemas.
  <div align="center">
   <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width="300" heigth="300" />
 </div>
