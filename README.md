@@ -2,11 +2,11 @@
 # Oi, eu sou a Carol! 
 ## Eai meu povo 👋
 
-🎓 Cursando análise e desenvolvimento de sistemas
+🎓 Cursando análise e desenvolvimento de sistemas 
 
 
 
-- 🔭 Estudando análise de dados e cloud AWS
+- 🔭 Estudando python para BDA
 
  <div align="center">
   <img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" width="300" heigth="300" />
